@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment[]=Solitaire game
+Exec=qsolitaire
+Icon=qsolitaire/qsolitaire
+Type=Application
+Name[]=QSolitaire
+
